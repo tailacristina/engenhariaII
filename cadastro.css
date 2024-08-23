@@ -1,0 +1,31 @@
+h1 {
+    color: purple;
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+body{
+    text-align: center;
+}
+input{
+    background-color:#DCDCDC	;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 20px;;
+    border: none;
+    text-align: center;
+    
+}
+a{
+    background-color:purple;
+    color: #ffffff;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width: 25%;
+    
+}
